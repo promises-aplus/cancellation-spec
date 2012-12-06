@@ -1,2 +1,1 @@
-cancellation-spec
-=================
+Spec under development, see the [issues](cancellation-spec/issues)
