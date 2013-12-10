@@ -1,1 +1,1 @@
-Spec under development, see the [issues](cancellation-spec/issues)
+Spec under development, see the [issues](https://github.com/promises-aplus/cancellation-spec/issues)
